@@ -25,13 +25,13 @@
 ### 📚 Github Status
 
 <p>
-  <img height=200 src="https://github-readme-stats.vercel.app/api/top-langs/?username=duyvinh09&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true">
-  <img height=200 src="https://github-readme-stats.vercel.app/api?username=duyvinh09&show_icons=true&theme=react&border_color=61dafb&hide_border=true">
+  <img height=200 src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ngocvu2604&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true">
+  <img height=200 src="https://github-readme-stats.vercel.app/api?username=Ngocvu2604&show_icons=true&theme=react&border_color=61dafb&hide_border=true">
 </p>
 
 ### 🌐️ Reach me at
-[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/duyvinh09)
-[![Telegram](https://img.shields.io/badge/Telegram-%23229ED9.svg?style=for-the-badge&logo=Telegram&logoColor=white)](https://t.me/duyvinh09)
+[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ngocvu2604)
+[![Telegram](https://img.shields.io/badge/Telegram-%23229ED9.svg?style=for-the-badge&logo=Telegram&logoColor=white)](https://t.me/ngocvu2005)
 
 <h3 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thanks+for+visiting!+✌️;+Shoot+me+a+message+on+Telegram!;I'm+always+down+to+collab+:)">
