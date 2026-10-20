@@ -1,7 +1,7 @@
 <img alt="banner" style="width:100vw" src="https://github.com/duyvinh09/duyvinh09/assets/85325084/708b729c-8314-4a63-9608-7962bf40757d">
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Pham+Ngoc+Vu!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Pham+Ngoc+Vu!;+De+cua+duyvinh09!" />
 </h1>
 <h3 align="center">I am a Student at Duy Tan University</h3>
 <br/>
