@@ -1,38 +1,55 @@
-<img alt="banner" style="width:100vw" src="https://github.com/duyvinh09/duyvinh09/assets/85325084/708b729c-8314-4a63-9608-7962bf40757d">
-
-<h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Pham+Ngoc+Vu!;+De+cua+duyvinh09!" />
-</h1>
-<h3 align="center">I am a Student at Duy Tan University</h3>
-<br/>
-<p align="center"><img src="https://img.icons8.com/color/48/000000/vietnam-circular.png"/></p>
-<div align="center">
- 🌍 I'm based in Vietnamese
-</div>
-
-### 🛠 My knowledge
-
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white)
-![PHP](https://img.shields.io/badge/php-%23484C89.svg?style=flat-square&logo=php&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat-square&logo=tailwind-css&logoColor=white)
-![C](https://img.shields.io/badge/C-%23044F88.svg?style=flat-square&logo=C&logoColor=white)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat-square&logo=java&logoColor=white)
-![Python](https://img.shields.io/badge/python-%23FFDE57.svg?style=flat-square&logo=python&logoColor=%23ffde57,%234584b6,%23646464)
-
-### 📚 Github Status
-
-<p>
-  <img height=200 src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ngocvu2604&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true">
-  <img height=200 src="https://github-readme-stats.vercel.app/api?username=Ngocvu2604&show_icons=true&theme=react&border_color=61dafb&hide_border=true">
+<!-- Profile banner -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=220&section=header&text=Pham%20Ngoc%20Vu&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Student%20%7C%20Developer%20in%20progress&descAlignY=58&descSize=16" alt="Profile banner" width="100%" />
 </p>
 
-### 🌐️ Reach me at
-[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ngocvu2604)
-[![Telegram](https://img.shields.io/badge/Telegram-%23229ED9.svg?style=for-the-badge&logo=Telegram&logoColor=white)](https://t.me/ngocvu2005)
+<h1 align="center">Hi, I'm Pham Ngoc Vu 👋</h1>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=20&center=true&vCenter=true&width=560&height=35&duration=3500&pause=900&lines=Student+at+Duy+Tan+University;Learning%2C+building%2C+and+sharing;Based+in+Vietnam+%F0%9F%87%BB%F0%9F%87%B3" alt="A short introduction" />
+</p>
 
-<h3 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thanks+for+visiting!+✌️;+Shoot+me+a+message+on+Telegram!;I'm+always+down+to+collab+:)">
-</h3>
+<p align="center">
+  <a href="https://github.com/Ngocvu2604">
+    <img src="https://img.shields.io/badge/GitHub-Ngocvu2604-181717?style=flat&logo=github" alt="GitHub profile" />
+  </a>
+  <a href="https://t.me/ngocvu2005">
+    <img src="https://img.shields.io/badge/Telegram-Message%20me-26A5E4?style=flat&logo=telegram&logoColor=white" alt="Telegram" />
+  </a>
+</p>
+
+---
+
+## About me
+
+🎓 Student at **Duy Tan University**  
+📍 Based in **Vietnam**  
+💻 Exploring web development and programming
+
+## Tech I work with
+
+<p>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=222222" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+</p>
+
+## GitHub at a glance
+
+<p>
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Ngocvu2604&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" alt="GitHub profile statistics" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ngocvu2604&layout=compact&theme=github_dark&hide_border=true&langs_count=8&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda" alt="Most used programming languages" />
+</p>
+
+---
+
+<p align="center">
+  <strong>Thanks for stopping by!</strong><br />
+  Feel free to connect or say hello 👋
+</p>
+
