@@ -4,46 +4,57 @@
 </p>
 
 <h1 align="center">Hi, I'm Pham Ngoc Vu 👋</h1>
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=20&center=true&vCenter=true&width=560&height=35&duration=3500&pause=900&lines=Student+at+Duy+Tan+University;Learning%2C+building%2C+and+sharing;Based+in+Vietnam+%F0%9F%87%BB%F0%9F%87%B3" alt="A short introduction" />
-</p>
 
 <p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=20&color=38BDF8&center=true&vCenter=true&width=560&height=35&duration=3500&pause=900&lines=Student+at+Duy+Tan+University;Learning%2C+building%2C+and+sharing;Based+in+Vietnam+%F0%9F%87%BB%F0%9F%87%B3" alt="A short introduction" />
+</p>
+
+<!-- Social links -->
+<p align="center">
   <a href="https://github.com/Ngocvu2604">
-    <img src="https://img.shields.io/badge/GitHub-Ngocvu2604-181717?style=flat&logo=github" alt="GitHub profile" />
+    <img src="https://img.shields.io/badge/GitHub-Ngocvu2604-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile" />
   </a>
   <a href="https://t.me/ngocvu2005">
-    <img src="https://img.shields.io/badge/Telegram-Message%20me-26A5E4?style=flat&logo=telegram&logoColor=white" alt="Telegram" />
+    <img src="https://img.shields.io/badge/Telegram-Message%20me-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
   </a>
 </p>
 
 ---
 
-## About me
+## 👨‍💻 About me
 
 🎓 Student at **Duy Tan University**  
 📍 Based in **Vietnam**  
-💻 Exploring web development and programming
+💻 Exploring **web development and programming**  
+🌱 Learning, building, and sharing along the way
 
-## Tech I work with
+## 🛠️ Tech I work with
 
-<p>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=222222" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C" />
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,js,php,tailwind,c,cpp,java,python&theme=dark&perline=9" alt="HTML, CSS, JavaScript, PHP, Tailwind CSS, C, C++, Java, Python" />
+  </a>
 </p>
 
-## GitHub at a glance
+## 📊 GitHub at a glance
 
-<p>
-  <img height="165" src="https://github-stats-extended.vercel.app/api/top-langs?username=Ngocvu2604&layout=compact&langs_count=8&hide_border=true&bg_color=101828&title_color=38BDF8&text_color=CBD5E1" />
-  <img height="165" src="https://github-stats-extended.vercel.app/api?username=Ngocvu2604&show_icons=true&rank_icon=github&hide_border=true&bg_color=101828&title_color=38BDF8&text_color=CBD5E1&icon_color=14B8A6" />
+<p align="center">
+  <img height="165" src="https://github-stats-extended.vercel.app/api?username=Ngocvu2604&show_icons=true&rank_icon=github&hide_border=true&bg_color=101828&title_color=38BDF8&text_color=CBD5E1&icon_color=14B8A6" alt="GitHub statistics" />
+  <img height="165" src="https://github-stats-extended.vercel.app/api/top-langs?username=Ngocvu2604&layout=compact&langs_count=8&hide_border=true&bg_color=101828&title_color=38BDF8&text_color=CBD5E1" alt="Most used languages" />
+</p>
+
+## 📈 Coding activity
+
+<p align="center">
+  <a href="https://github.com/Ngocvu2604">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ngocvu2604&bg_color=101828&color=CBD5E1&title_color=38BDF8&line=38BDF8&point=14B8A6&area=true&area_color=203A43&hide_border=true" alt="GitHub activity over the last 31 days" width="100%" />
+  </a>
+</p>
+
+## 🐍 Contribution snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Ngocvu2604/Ngocvu2604/output/github-snake.svg" alt="Snake animation of my GitHub contributions" width="100%" />
 </p>
 
 ---
@@ -53,3 +64,7 @@
   Feel free to connect or say hello 👋
 </p>
 
+<!-- Footer banner -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=120&section=footer" alt="Footer banner" width="100%" />
+</p>
