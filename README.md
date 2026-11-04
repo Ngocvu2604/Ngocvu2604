@@ -1,6 +1,10 @@
 <!-- Profile banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=220&section=header&text=Pham%20Ngoc%20Vu&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Student%20%7C%20Developer%20in%20progress&descAlignY=58&descSize=16" alt="Profile banner" width="100%" />
+  <img
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,35:0F172A,70:075985,100:22D3EE&height=260&section=header&text=PHAM%20NGOC%20VU&fontSize=46&fontColor=F8FAFC&fontAlignY=38&desc=CODE%20%E2%80%A2%20CREATE%20%E2%80%A2%20EXPLORE&descSize=16&descAlignY=58"
+    alt="Pham Ngoc Vu — Midnight Ocean banner"
+    width="100%"
+  />
 </p>
 
 <h1 align="center">Hi, I'm Pham Ngoc Vu 👋</h1>
@@ -86,5 +90,9 @@
 
 <!-- Footer banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=120&section=footer" alt="Footer banner" width="100%" />
+  <img
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:22D3EE,35:075985,70:0F172A,100:020617&height=150&section=footer"
+    alt="Midnight Ocean footer"
+    width="100%"
+  />
 </p>
