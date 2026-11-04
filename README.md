@@ -43,16 +43,15 @@
   <img height="165" src="https://github-stats-extended.vercel.app/api/top-langs?username=Ngocvu2604&layout=compact&langs_count=8&hide_border=true&bg_color=101828&title_color=38BDF8&text_color=CBD5E1" alt="Most used languages" />
 </p>
 
-## 📈 Coding activity
+## 📈 Contribution overview
 
 <p align="center">
   <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=Ngocvu2604&theme=react-dark&hide_border=true"
-    alt="GitHub activity graph"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ngocvu2604&theme=github_dark"
+    alt="GitHub contribution overview"
     width="100%"
   />
 </p>
-
 ## 🐍 Contribution snake
 
 <p align="center">
