@@ -58,6 +58,17 @@ $ cat profile.txt
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ngocvu2604&theme=github_dark" alt="GitHub contribution overview" width="100%" />
 </p>
 
+## 🔥 GitHub Streak
+
+<p align="center">
+  <a href="https://github.com/Ngocvu2604">
+    <img
+      src="https://streak-stats.demolab.com/?user=Ngocvu2604&theme=highcontrast&hide_border=true&border_radius=12"
+      alt="GitHub contributions, current streak, and longest streak"
+    />
+  </a>
+</p>
+
 <!--
 ## 🐍 Contribution snake
 
@@ -100,7 +111,7 @@ $ cat profile.txt
 </p>
 
 <p align="center">
-  <a href="https://t.me/ngocvu2005">
+  <a href="https://t.me/ngocvu05">
     <img
       src="https://img.shields.io/badge/LET'S_TALK-22D3EE?style=for-the-badge&logo=telegram&logoColor=020617"
       alt="Connect with me on Telegram"
