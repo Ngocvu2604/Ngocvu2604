@@ -24,13 +24,18 @@
 </p>
 
 ---
+## 💻 About me
 
-## 👨‍💻 About me
+```console
+$ whoami
+Pham Ngoc Vu
 
-🎓 Student at **Duy Tan University**  
-📍 Based in **Vietnam**  
-💻 Exploring **web development and programming**  
-🌱 Learning, building, and sharing along the way
+$ cat profile.txt
+🎓 Duy Tan University
+📍 Vietnam
+🌱 Learning web development and programming
+🚀 Learning → Building → Sharing
+```
 
 ## 🛠️ Tech I work with
 
