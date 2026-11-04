@@ -46,9 +46,11 @@
 ## 📈 Coding activity
 
 <p align="center">
-  <a href="https://github.com/Ngocvu2604">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ngocvu2604&bg_color=101828&color=CBD5E1&title_color=38BDF8&line=38BDF8&point=14B8A6&area=true&area_color=203A43&hide_border=true" alt="GitHub activity over the last 31 days" width="100%" />
-  </a>
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=Ngocvu2604&theme=react-dark&hide_border=true"
+    alt="GitHub activity graph"
+    width="100%"
+  />
 </p>
 
 ## 🐍 Contribution snake
