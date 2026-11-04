@@ -46,17 +46,17 @@
 ## 📈 Contribution overview
 
 <p align="center">
-  <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ngocvu2604&theme=github_dark"
-    alt="GitHub contribution overview"
-    width="100%"
-  />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ngocvu2604&theme=github_dark" alt="GitHub contribution overview" width="100%" />
 </p>
-<!-- ## 🐍 Contribution snake 
+
+<!--
+## 🐍 Contribution snake
+
 <p align="center">
   <img src="https://raw.githubusercontent.com/Ngocvu2604/Ngocvu2604/output/github-snake.svg" alt="Snake animation of my GitHub contributions" width="100%" />
 </p>
----
+-->
+
 ## 🚀 Galaga Contribution Graph
 
 <p align="center">
@@ -76,12 +76,13 @@
     />
   </picture>
 </p>
+
+---
+
 <p align="center">
   <strong>Thanks for stopping by!</strong><br />
   Feel free to connect or say hello 👋
 </p>
-
-
 
 <!-- Footer banner -->
 <p align="center">
