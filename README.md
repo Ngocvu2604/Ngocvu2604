@@ -18,7 +18,7 @@
   <a href="https://github.com/Ngocvu2604">
     <img src="https://img.shields.io/badge/GitHub-Ngocvu2604-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile" />
   </a>
-  <a href="https://t.me/ngocvu2005">
+  <a href="https://t.me/ngocvu05">
     <img src="https://img.shields.io/badge/Telegram-Message%20me-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
   </a>
 </p>
@@ -88,9 +88,24 @@ $ cat profile.txt
 
 ---
 
+<!-- Animated farewell -->
 <p align="center">
-  <strong>Thanks for stopping by!</strong><br />
-  Feel free to connect or say hello 👋
+  <a href="https://t.me/ngocvu05">
+    <img
+      src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=600&size=23&duration=3000&pause=1500&color=22D3EE&center=true&vCenter=true&width=650&height=70&lines=Thanks+for+stopping+by!+%F0%9F%91%8B;Let%27s+connect+and+build+something!+%F0%9F%9A%80;Keep+learning.+Keep+creating.+%E2%9C%A8"
+      alt="Thanks for stopping by! Let's connect and build something. Keep learning. Keep creating."
+      width="100%"
+    />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://t.me/ngocvu2005">
+    <img
+      src="https://img.shields.io/badge/LET'S_TALK-22D3EE?style=for-the-badge&logo=telegram&logoColor=020617"
+      alt="Connect with me on Telegram"
+    />
+  </a>
 </p>
 
 <!-- Footer banner -->
