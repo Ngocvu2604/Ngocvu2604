@@ -52,18 +52,36 @@
     width="100%"
   />
 </p>
-## 🐍 Contribution snake
-
+<!-- ## 🐍 Contribution snake 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Ngocvu2604/Ngocvu2604/output/github-snake.svg" alt="Snake animation of my GitHub contributions" width="100%" />
 </p>
-
 ---
+## 🚀 Galaga Contribution Graph
 
+<p align="center">
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/Ngocvu2604/Ngocvu2604/galaga-output/galaga-contribution-graph-dark.svg"
+    />
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/Ngocvu2604/Ngocvu2604/galaga-output/galaga-contribution-graph.svg"
+    />
+    <img
+      src="https://raw.githubusercontent.com/Ngocvu2604/Ngocvu2604/galaga-output/galaga-contribution-graph.svg"
+      alt="Galaga animation of my GitHub contributions"
+      width="100%"
+    />
+  </picture>
+</p>
 <p align="center">
   <strong>Thanks for stopping by!</strong><br />
   Feel free to connect or say hello 👋
 </p>
+
+
 
 <!-- Footer banner -->
 <p align="center">
