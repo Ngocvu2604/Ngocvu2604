@@ -42,8 +42,8 @@
 ## GitHub at a glance
 
 <p>
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Ngocvu2604&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" alt="GitHub profile statistics" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ngocvu2604&layout=compact&theme=github_dark&hide_border=true&langs_count=8&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda" alt="Most used programming languages" />
+  <img height="165" src="https://github-stats-extended.vercel.app/api/top-langs?username=Ngocvu2604&layout=compact&langs_count=8&hide_border=true&bg_color=101828&title_color=38BDF8&text_color=CBD5E1" />
+  <img height="165" src="https://github-stats-extended.vercel.app/api?username=Ngocvu2604&show_icons=true&rank_icon=github&hide_border=true&bg_color=101828&title_color=38BDF8&text_color=CBD5E1&icon_color=14B8A6" />
 </p>
 
 ---
